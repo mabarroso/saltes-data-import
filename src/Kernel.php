@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Saltes\Data\Import;
 
 use Symfony\Bundle\FrameworkBundle\Kernel\MicroKernelTrait;
 use Symfony\Component\DependencyInjection\Loader\Configurator\ContainerConfigurator;
